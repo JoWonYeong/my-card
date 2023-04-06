@@ -1,6 +1,6 @@
 .container {
-  width: 300px;
-  height: 460px;
+  width: 360px;
+  height: 520px;
   margin: calc((100vh - 460px) / 2) auto;
 
   animation-name: changeScale;

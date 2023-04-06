@@ -19,6 +19,7 @@ body {
 }
 .front {
   padding: 30px;
+  box-sizing: border-box;
   font-family: 'TheJamsil5Bold';
   background-color: #fffbe6;
   box-shadow: inset 0px 0px 0px 5px #698474;
@@ -75,5 +76,5 @@ body {
 .back-img {
   width: 160px;
   height: 160px;
-  margin: 150px 70px;
+  margin: 180px 100px;
 }
